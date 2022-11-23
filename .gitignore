@@ -1,0 +1,5 @@
+# ignore any files in node_modules
+node_modules/
+
+# igonre any files in user.d directory
+user.d/
