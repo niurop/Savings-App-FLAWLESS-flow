@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/niurop/Savings-App-FLAWLESS-flow/issues"
   },
-  "homepage": "https://github.com/niurop/Savings-App-FLAWLESS-flow#readme"
+  "homepage": "https://github.com/niurop/Savings-App-FLAWLESS-flow#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
